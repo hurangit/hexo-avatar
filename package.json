@@ -1,0 +1,19 @@
+{
+  "name": "hexo-avatar",
+  "version": "1.0.0",
+  "description": "hex中友链页面预览页，头像等...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hurangit/hexo-avatar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hurangit/hexo-avatar/issues"
+  },
+  "homepage": "https://github.com/hurangit/hexo-avatar#readme"
+}
