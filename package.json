@@ -1,6 +1,6 @@
 {
   "name": "hexo-avatar",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "hex中友链页面预览页，头像等...",
   "main": "index.js",
   "scripts": {
